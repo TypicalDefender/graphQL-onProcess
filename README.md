@@ -25,7 +25,7 @@ This is a server boilerplate using GraphQL and MongoDB. Support subscriptions us
 
 ## Getting started
 
-1. Clone this repo using `https://github.com/leonardomso/graphql-mongodb-server.git`
+1. Clone this repo using `https://github.com/TypicalDefender/graphQL-onProcess.git`
 2. Move to the appropriate directory: `cd graphql-mongodb-server`.
 4. Run `yarn` or `npm install` to install dependencies.
 5. Set `.env` file with your mongoURI.
